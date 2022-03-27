@@ -1,0 +1,27 @@
+dateModified: 1648360764
+email:
+  fromEmail: chris@onebrightlight.com
+  fromName: 'Vite Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    21ed1ee8-3150-4d30-99d0-3670f59a3974: 'Vite Test' # Vite Test
+    9960118c-c8fe-4193-ade4-dd52ace2fcf0: Common # Common
+    c864af44-4e3b-48d3-aa18-65b9f6a11345: 'Vite Test' # Vite Test
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Vite Test'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
